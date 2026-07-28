@@ -1,3 +1,3 @@
-Yohan Seth S. Abdul 
-9-Lithium
-This Portfolio is made by Me(yohan)
+Hi, Hello
+My names is Yohan Seth S. Abdul From 9-Lithium
+This is my Portfolio
