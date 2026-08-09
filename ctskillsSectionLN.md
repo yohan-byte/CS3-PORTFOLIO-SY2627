@@ -39,16 +39,16 @@ Sub-Problem
 
 CT Skill
 
-1.Decomposition/ Pattern Recognition
+1. Decomposition/ Pattern Recognition
 2. Algorithmic Design / Automation
 3. Data Representation / Abstraction 
 4. Sequencing / Algorithm 
 
 Example Solution
 
-1.Show a simple daily menu with pictures and prices; suggest popular combinations so students choose faster. 
-2.Create a program that multiplies quantity by price, adds total, and computes change instantly. 
-3.Keep a list or table of available items and update counts automatically as orders are placed. 
+1. Show a simple daily menu with pictures and prices; suggest popular combinations so students choose faster. 
+2. Create a program that multiplies quantity by price, adds total, and computes change instantly. 
+3. Keep a list or table of available items and update counts automatically as orders are placed. 
 4. Assign queue numbers or accept pre‑orders; serve customers in exact order received. 
 
  Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
